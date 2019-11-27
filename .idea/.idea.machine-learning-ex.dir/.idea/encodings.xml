@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/ex1_linear_regression/computeCost.m" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/ex1_linear_regression/gradientDescent.m" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/ex1_linear_regression/plotData.m" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/ex1_linear_regression/warmUpExercise.m" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task_second_easy_ex/gradientDescent.m" charset="windows-1251" />
+  </component>
+</project>

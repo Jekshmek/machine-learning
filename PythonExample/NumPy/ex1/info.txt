@@ -1,0 +1,5 @@
+﻿﻿Установить в дополнение к python библиотеку matplotlib
+$ python -m pip install -U matplotlib
+
+
+

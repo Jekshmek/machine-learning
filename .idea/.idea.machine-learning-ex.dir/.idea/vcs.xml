@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NumPy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NumPy/Coursera-MachineLearning-in-NumPy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OctaveExample/Stanford-CS229-Coursera-Machine-Learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PythonExample/Coursera-Machine-Learning-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PythonExample/NumPy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PythonExample/coursera-machine-learning-in-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PythonExample/machine-learning-coursera-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lab2.wiki" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/wiki.lab" vcs="Git" />
+  </component>
+</project>
